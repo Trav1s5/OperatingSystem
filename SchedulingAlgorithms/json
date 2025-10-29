@@ -1,0 +1,6 @@
+[
+  {"PID": 1, "ArrivalTime": 0, "BurstTime": 8, "Priority": 2},
+  {"PID": 2, "ArrivalTime": 1, "BurstTime": 4, "Priority": 1},
+  {"PID": 3, "ArrivalTime": 2, "BurstTime": 9, "Priority": 3},
+  {"PID": 4, "ArrivalTime": 3, "BurstTime": 5, "Priority": 2}
+]
